@@ -10,3 +10,4 @@ FLEXBOX para la distribuicion de elementos.
 BEM tratamos de acoplarnos a la metodologia mencionada para dar una mejor estructura y organizacion al contenido.
 Diseño responsivo utilizando media queries para adaptarse a dispositivos.
 Gradientes y efectos hover para mejorar la interacción visual.
+git@github.com:Rodriguez-97/web_project_potrfolio_es.git
